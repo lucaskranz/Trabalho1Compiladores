@@ -1,0 +1,9 @@
+D:\Projetos\COMPLICADORES\AutomatoFinito\bin\Debug\AutomatoFinito.exe.config
+D:\Projetos\COMPLICADORES\AutomatoFinito\bin\Debug\AutomatoFinito.exe
+D:\Projetos\COMPLICADORES\AutomatoFinito\bin\Debug\AutomatoFinito.pdb
+D:\Projetos\COMPLICADORES\AutomatoFinito\obj\Debug\AutomatoFinito.exe
+D:\Projetos\COMPLICADORES\AutomatoFinito\obj\Debug\AutomatoFinito.pdb
+D:\Projetos\COMPLICADORES\AutomatoFinito\obj\Debug\AutomatoFinito.csprojResolveAssemblyReference.cache
+D:\Projetos\COMPLICADORES\Trabalho1\bin\Debug\AutomatoFinito.exe.config
+D:\Projetos\COMPLICADORES\Trabalho1\obj\Debug\AutomatoFinito.exe
+D:\Projetos\COMPLICADORES\Trabalho1\obj\Debug\AutomatoFinito.pdb

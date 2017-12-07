@@ -1,0 +1,7 @@
+D:\Projetos\COMPLICADORES\Trabalho1\bin\Debug\AutomatoFinito.exe.config
+D:\Projetos\COMPLICADORES\Trabalho1\bin\Debug\AutomatoFinito.exe
+D:\Projetos\COMPLICADORES\Trabalho1\bin\Debug\AutomatoFinito.pdb
+D:\Projetos\COMPLICADORES\Trabalho1\obj\Debug\Trabalho1.csprojResolveAssemblyReference.cache
+D:\Projetos\COMPLICADORES\Trabalho1\obj\Debug\AutomatoFinito.exe
+D:\Projetos\COMPLICADORES\Trabalho1\obj\Debug\AutomatoFinito.pdb
+D:\Projetos\COMPLICADORES\Trabalho1\bin\Debug\itextsharp.dll
